@@ -80,9 +80,6 @@ The goal was to:
 - **Customer Lifetime Value (CLV)** trend  
 - **Target Retention KPI Tracker** showing percentage retained
 
-## Dashboard Preview
-![Client Retention Dashboard](client-retention-model/images/dashboard_preview.png)
-
 ---
 
 ## Repository Structure
