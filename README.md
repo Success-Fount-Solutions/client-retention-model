@@ -97,12 +97,6 @@ client-retention-model/
 ├─ LICENSE
 └─ .gitignore
 ```
-
----
-
-## Power BI Report Link
-[View Interactive Dashboard](https://app.powerbi.com/https://app.powerbi.com/reportEmbed?reportId=74bb95f7-5812-4b6d-82f7-0b4d06f56e5c&autoAuth=true&ctid=f91e4e24-719d-4547-ac64-f85b31737f7e)
-
 ---
 
 ## How to Reproduce
